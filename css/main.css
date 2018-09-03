@@ -1,0 +1,44 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.controls {
+	margin-bottom: 40px;
+}
+
+.item {
+	position: relative;
+	margin-bottom: 10px;
+	float:left;
+    clear:left;
+}
+
+.hover-edit-menu {
+	display: inline-block;
+	transform: translateX(10px);
+}
+.edit-button, 
+.remove-button,
+.save-button,
+.cancel-button {
+	color: #999;
+}
+.edit-input.form-control {
+	width: auto;
+	display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
