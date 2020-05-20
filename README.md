@@ -5,4 +5,4 @@ ToDo list с возможностью редактирования и удале
 Для быстрого развертывания использовался HTML5 boilerplate. 
 В качестве хранилища используется LocalStorage.
 
-http://blogo-daru.ru/demo/localstorage/
+Github Pages: https://norzserge.github.io/ToDo-list-with-LocalStorage/
